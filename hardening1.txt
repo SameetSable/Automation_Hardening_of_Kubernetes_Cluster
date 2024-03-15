@@ -59,7 +59,7 @@ echo -e "Script made by:"
 echo -e "Achal Mali-230940123003"
 echo -e "Krutika Pathak-230940123029"
 echo -e "Sanyogita suryawanshi-230940123041"
-echo -e "sameet-230940123038"
+echo -e "Sameet Sable-230940123038"
 echo -e "prajwal-230940123031"
 
 echo -en '\n'
